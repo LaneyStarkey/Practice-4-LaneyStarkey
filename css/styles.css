@@ -21,7 +21,7 @@ h1, h2, h3 {
     background-color: #1D1B18;
 }
 
-.site-nav ul{
+.site-nav ul {
     list-styles: none; 
     display: grid;
     grid-template: auto/auto auto auto auto auto;
