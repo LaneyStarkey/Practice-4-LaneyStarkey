@@ -24,7 +24,7 @@ h1, h2, h3 {
 .site-nav ul {
     list-style: none; 
     display: grid;
-    grid-template: auto/auto auto auto auto auto;
+    grid-template: auto / auto auto auto auto auto;
     gap: 34px;
     width: max-content;
     margin: 0 auto;
