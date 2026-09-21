@@ -22,7 +22,7 @@ h1, h2, h3 {
 }
 
 .site-nav ul {
-    list-styles: none; 
+    list-style: none; 
     display: grid;
     grid-template: auto/auto auto auto auto auto;
     gap: 34px;
