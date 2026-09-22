@@ -66,9 +66,9 @@ main {
 
 .hero {
     display: grid;
-    grid-template: auto/ 1fr 1fr;
+    grid-template: auto / 1fr 1fr;
     gap: 28px;
-    padding:54px 0;
+    padding: 54px 0;
 }
 
 .hero img {
