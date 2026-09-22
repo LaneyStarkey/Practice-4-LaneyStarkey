@@ -79,7 +79,7 @@ main {
 
 h1 {
     font-size: 54px;
-    line-height: 1.05px;
+    line-height: 1.05;
 }
 
 .eyebrow {
