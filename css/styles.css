@@ -135,7 +135,7 @@ h1 {
 }
 
 .recipe-hero img {
-    width: 100px;
+    width: 100%;
     height: 420px;
     object-fit: cover;
     margin-top: 24px;
